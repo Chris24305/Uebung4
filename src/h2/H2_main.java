@@ -30,12 +30,6 @@ public class H2_main {
 		} else {
 			b = false;
 		}
-		c=!y;
-		/*if (y == false) {
-			c = true;
-		} else {
-			c = false;
-		} */
-		System.out.println("a: " + a + " b: " + b + " c: " + c);
+		c = !y;
 	}
 }
