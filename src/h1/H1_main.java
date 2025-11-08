@@ -28,6 +28,6 @@ public class H1_main {
 		default:
 			price = 4;
 		}
-	System.out.println("Zone: "+zone+", Preis: "+price);
+			// System.out.println("Zone: " + zone + ", Preis: " + price);
 	}
 }
